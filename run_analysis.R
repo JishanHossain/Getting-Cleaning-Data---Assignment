@@ -1,5 +1,5 @@
 # Getting and cleaning data - assignment
-# Set working directory 
+
 setwd("~./My Project Final")
 library(dplyr)
 if (!file.exists("./data")) {
